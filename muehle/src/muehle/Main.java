@@ -1,9 +1,9 @@
 package muehle;
 
 public class Main {
-	//Test
+	// Test
 	public static void main(String[] args) {
-		System.out.println("Mühle");
+		System.out.println("Hallo Welt(Kims Test)");
 	}
 
 }
